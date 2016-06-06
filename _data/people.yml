@@ -208,13 +208,13 @@ bleuse_r:
  
 
 bouge_l:
-  sur_name: Bougé
+  sur_name: Bouge
   given_name: Luc
   affiliation: inria
   position: permanent
   topics: Big Data & I/O
   email: luc.bouge@ens-rennes.fr
-  homepage: https://team.inria.fr/kerdata/luc-bouge/
+  homepage:
 
 broemmel_d:
   sur_name: Broemmel
@@ -256,10 +256,10 @@ casas_m:
   sur_name: Casas
   given_name: Marc
   affiliation: bsc
-  position: permanent
-  topics: HPC, Programming Models, Resilience
+  position:
+  topics: Programming Models
   email: marc.casas@bsc.es
-  homepage: http://www.bsc.es/about-bsc/staff-directory/casas-marc
+  homepage:
 
 cavelan_a:
   sur_name: Cavelan
@@ -345,10 +345,10 @@ di_napoli_e:
   sur_name: Di Napoli
   given_name: Edoardo
   affiliation: jsc
-  position: post_doc
-  topics: numerical linear algebra, materials science
+  position:
+  topics:
   email: e.di.napoli@fz-juelich.de
-  homepage: http://www.jara.org/index.php?id=1314
+  homepage:
 
 dirand_e:
   sur_name: Dirand
@@ -398,19 +398,19 @@ estrada_j:
   sur_name: Estrada
   given_name: Jorge
   affiliation: bsc
-  position: post_doc
-  topics: Protein Biophysics, Monte Carlo
+  position:
+  topics: Molecular Dynamics
   email: jorge.estrada@bsc.es
-  homepage: https://www.bsc.es/about-bsc/staff-directory/estrada-jorge
+  homepage:
 
 feld_c:
   sur_name: Feld
   given_name: Christian
   affiliation: jsc
-  position:
+  position: permanent
   topics: Performance Tools
   email: c.feld@fz-juelich.de
-  homepage:
+  homepage: http://www.fz-juelich.de/SharedDocs/Personen/IAS/JSC/EN/staff/feld_c.html
 
 finkel_h:
   sur_name: Finkel
@@ -837,7 +837,7 @@ narayanan_s:
   sur_name: Narayanan
   given_name: Sri Hari Krishna
   affiliation: anl
-  position: permanent
+  position:
   topics: ADIC, Performance Bounds
   email: snarayan@mcs.anl.gov
   homepage: http://www.mcs.anl.gov/person/sri-hari-krishna-narayanan
@@ -892,7 +892,7 @@ pena_a:
   sur_name: Peña
   given_name: Antonio J.
   affiliation: bsc
-  position: permanent
+  position:
   topics: Performance Tools
   email:  antonio.pena@bsc.es
   homepage: https://www.bsc.es/es/about-bsc/staff-directory/pena-antonio
